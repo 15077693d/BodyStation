@@ -115,7 +115,7 @@ class BodyStation():
 
         # annotation
         if game != 'test':
-             self.img_dict = game_contants(game,setting = setting)['img_dict']
+             self.img_dict = game_contants(game,useGPU)['img_dict']
         else:
             pass
         self.start = time.time()

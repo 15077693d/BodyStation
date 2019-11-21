@@ -18,7 +18,7 @@ def motion_contants(game,useGPU):
                                     'r_wrist':{}
                                     }
 
-    elif game == 'hooligans':
+    elif game in ['hooligans','relicrunway']:
         motion_dict['keypoints'] = {'neck':{}}
 
     elif game == 'tetris':

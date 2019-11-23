@@ -1,7 +1,7 @@
 # BodyStation
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/bodystation.jpeg)
 
-## Introduction
+# Introduction
 - Game controller base on human movement
 - 18 body keypoints detection by CNN model(**Posenet**) which is implemented by **rwightman**
 - User Interface is implemented using **Opencv**
@@ -9,7 +9,7 @@
 - Web Browser Automation by **Selenium**
 - Coordinate Checking and data analysis using **Pandas**
 
-## Installation
+# Installation
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
@@ -39,16 +39,16 @@ pip install -r requirements.txt
  cd body_station
  python3 main.py --useGPU True --driver geckodrivermac
 ```
-## Instruction
-#### Content
+# Instruction
+## Content
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/content.gif)
-#### Hooligans
+## Hooligans
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)
-#### Tetris
+## Tetris
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
-#### Relicrunway
+## Relicrunway
 Same as Hooliagns
-#### Test
+## Test
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)
-#### Exit
+## Exit
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/quit.gif)

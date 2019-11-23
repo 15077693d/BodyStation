@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
 ## Relicrunway
 Same as Hooliagns
-## Test
-![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)
 ## Exit
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/quit.gif)
+## Test
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)

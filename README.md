@@ -37,9 +37,16 @@ pip install -r requirements.txt
  cd body_station
  python3 main.py --useGPU True --driver geckodrivermac
 ```
-### Instruction
+## Instruction
 #### Content
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/bodystation.jpeg)
 #### Hooligans
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)
 #### Tetris
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
 #### Relicrunway
+Same as Hooliagns
 #### Test
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)
+#### Exit
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/quit.gif)

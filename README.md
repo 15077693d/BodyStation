@@ -1,5 +1,6 @@
 # BodyStation
-![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/bodystation.jpeg)
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/bodystation.jpeg =100x20)
+
 ## Introduction
 - Game controller base on human movement
 - 18 body keypoints detection by CNN model(**Posenet**) which is implemented by **rwightman**

@@ -33,7 +33,7 @@ pip install -r requirements.txt
  **A : Web driver name (Firefox: geckodriver/Google Chrome: chromedriver)
  B : Operation system name (linx/mac/win)**
 - Run ```main.py``` in folder ```body_station```
-- For example, Mac user uses Firefox as web browser and activates GPU
+- For example, Mac user uses firefox as web browser and activates GPU
 
 ```
  cd body_station
@@ -41,40 +41,59 @@ pip install -r requirements.txt
 ```
 # Instruction
 ## Content page
-- Clone or download this repository
-- Google Chrome version: 78/ Firefox Browser version: 70
-- Install required packages in requirements.txt
+| Button | Description (Hand)                |
+| ------------- | ------------------------------ |
+| `Exit`   | Teminate program (right)|
+
+- Hold left hand on bodystation logo until "tab here" disappears 
+- Hold right hand on target's game logo to access the game
 
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/content.gif)
-## Hooligans
-- Clone or download this repository
-- Google Chrome version: 78/ Firefox Browser version: 70
-- Install required packages in requirements.txt
 
-![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)
-## Tetris
-- Clone or download this repository
-- Google Chrome version: 78/ Firefox Browser version: 70
-- Install required packages in requirements.txt
-
-![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
-## Relicrunway
-
-- Clone or download this repository
-- Google Chrome version: 78/ Firefox Browser version: 70
-- Install required packages in requirements.txt
-Same as Hooliagns
-## Exit
+### Exit
 
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
 
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/quit.gif)
-## Test
 
-- Clone or download this repository
-- Google Chrome version: 78/ Firefox Browser version: 70
-- Install required packages in requirements.txt
+## Games
 
-![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)
+| Button | Description (Hand)                |
+| ------------- | ------------------------------ |
+| `Menu`      | Open Menu (right)      |
+| `Start`   |  Start game (right)   |
+| `Pause`   | Pause game  (left)   |
+| `Exit`   | Exit game to content page  (left)  |
+
+- Hold right hand on menu buttom and menu comes out
+- Hold right hand on start buttom and game starts
+
+### Hooligans
+
+| Action | Function              |
+| ------------- | ------------------------------ |
+| `Walk Left`   | Move left      |
+| `Walk Right`  |  Move right   |
+| `Jump`   | Move up   |
+| `Squat`   | Move down  |
+
+
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)
+
+### Tetris
+
+| Action | Function             |
+| ------------- | ------------------------------ |
+|`Rise left hand`|Move left|
+|`Rise right hand`|Move right|
+| `Walk Left`   | Rotate block      |
+| `Walk Right`  |  Rotate block   |
+| `Jump`   | Hard drop   |
+| `Squat`   | Soft drop  |
+
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
+
+### Relicrunway
+- Same as Hooliagns

@@ -70,7 +70,7 @@ pip install -r requirements.txt
 - Hold right hand on menu buttom and menu comes out
 - Hold right hand on start buttom and game starts
 
-### Hooligans
+### Skates Hooligans
 
 | Action | Function              |
 | ------------- | ------------------------------ |
@@ -95,5 +95,5 @@ pip install -r requirements.txt
 
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
 
-### Relicrunway
-- Same as Hooliagns
+### Relic Runway
+- Same as Skates Hooligans

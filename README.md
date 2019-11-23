@@ -44,16 +44,19 @@ pip install -r requirements.txt
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
+
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/content.gif)
 ## Hooligans
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
+
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)
 ## Tetris
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
+
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
 ## Relicrunway
 
@@ -66,10 +69,12 @@ Same as Hooliagns
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
+
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/quit.gif)
 ## Test
 
 - Clone or download this repository
 - Google Chrome version: 78/ Firefox Browser version: 70
 - Install required packages in requirements.txt
+
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)

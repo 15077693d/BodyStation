@@ -1,5 +1,5 @@
 # BodyStation
-![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/bodystation.jpeg =100x20)
+![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/bodystation.jpeg)
 
 ## Introduction
 - Game controller base on human movement

@@ -40,7 +40,7 @@ pip install -r requirements.txt
  python3 main.py --useGPU True --driver geckodrivermac
 ```
 # Instruction
-## Content
+## Content page
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/content.gif)
 ## Hooligans
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)

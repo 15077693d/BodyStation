@@ -33,7 +33,7 @@ pip install -r requirements.txt
  **A : Web driver name (Firefox: geckodriver/Google Chrome: chromedriver)
  B : Operation system name (linx/mac/win)**
 - Run ```main.py``` in folder ```body_station```
-- For example, Mac user uses Firefox as web browser and activate GPU
+- For example, Mac user uses Firefox as web browser and activates GPU
 
 ```
  cd body_station
@@ -41,14 +41,35 @@ pip install -r requirements.txt
 ```
 # Instruction
 ## Content page
+- Clone or download this repository
+- Google Chrome version: 78/ Firefox Browser version: 70
+- Install required packages in requirements.txt
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/content.gif)
 ## Hooligans
+- Clone or download this repository
+- Google Chrome version: 78/ Firefox Browser version: 70
+- Install required packages in requirements.txt
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/hooligans.gif)
 ## Tetris
+- Clone or download this repository
+- Google Chrome version: 78/ Firefox Browser version: 70
+- Install required packages in requirements.txt
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/tetris.gif)
 ## Relicrunway
+
+- Clone or download this repository
+- Google Chrome version: 78/ Firefox Browser version: 70
+- Install required packages in requirements.txt
 Same as Hooliagns
 ## Exit
+
+- Clone or download this repository
+- Google Chrome version: 78/ Firefox Browser version: 70
+- Install required packages in requirements.txt
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/quit.gif)
 ## Test
+
+- Clone or download this repository
+- Google Chrome version: 78/ Firefox Browser version: 70
+- Install required packages in requirements.txt
 ![Alt Text](https://github.com/15077693d/readme_image/blob/master/bodystation/test.gif)
